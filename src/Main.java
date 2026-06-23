@@ -8,6 +8,6 @@ public class Main {
       System.out.print("digite seu peso");
       double peso = leia.nextDouble();
       System.out.printf("O peso e  "+peso+" " );
-
+      System.out.print("tst");
     }
 }
